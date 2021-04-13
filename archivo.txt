@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 creo en master 
+=======
+creo archivo en pruebas2
+>>>>>>> pruebas2
